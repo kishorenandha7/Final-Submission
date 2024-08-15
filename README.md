@@ -8,12 +8,12 @@ Welcome to the official submission repository for the **SRCAS Hackathon** organi
 
 Please fill in the following details in this README file before submitting your repository:
 
-- **Team Name:** [Your Team Name]  
-- **Team ID:** [Your Team ID]  
-- **Problem Statement ID:** [Problem Statement ID]  
-- **Project Title:** [Your Project Title]  
-- **Team Leader Name:** [Team Leader's Full Name]  
-- **Team Members:** [Team Member's Names]  
+- **Team Name:** THUNDER 
+- **Team ID:** T3PS02T15  
+- **Problem Statement ID:**T3PS02  
+- **Project Title:** AI DRIVEN ENERGY MANAGEMENT PLATFORM- IMPROVING POWER FACTOR BY AI AND ML INDUSTRIES 
+- **Team Leader Name:** PRAKASHRAJ M 
+- **Team Members:** PRANAV SANJAY S, RANJITH KUMAR V,NANDHAKISHORE J 
 
 ---
 
